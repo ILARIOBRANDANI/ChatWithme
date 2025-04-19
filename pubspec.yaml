@@ -1,0 +1,16 @@
+
+name: chatwithme
+description: Chat con utenti vicini, con contatti WhatsApp e Telegram
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.1.5
+
+flutter:
+  uses-material-design: true
