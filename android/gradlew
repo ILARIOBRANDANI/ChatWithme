@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'Running gradlew'
+echo 'gradlew dummy'

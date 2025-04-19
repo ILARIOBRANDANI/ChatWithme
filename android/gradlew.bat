@@ -1,2 +1,2 @@
 @echo off
-echo Running gradlew.bat
+echo gradlew dummy
