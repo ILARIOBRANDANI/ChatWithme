@@ -4,7 +4,7 @@
     <application
         android:label="ChatWithMe"
         android:icon="@mipmap/ic_launcher"
-        android:name="io.flutter.app.FlutterApplication">
+        android:name="${applicationName}">
         <activity
             android:name=".MainActivity"
             android:exported="true"
@@ -13,9 +13,6 @@
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
             android:hardwareAccelerated="true"
             android:windowSoftInputMode="adjustResize">
-            <meta-data
-                android:name="flutterEmbedding"
-                android:value="2" />
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.LAUNCHER"/>

@@ -1,2 +1,2 @@
 @echo off
-echo gradlew dummy
+echo gradlew placeholder

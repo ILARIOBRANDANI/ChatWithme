@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'gradlew dummy'
+echo 'gradlew placeholder'
