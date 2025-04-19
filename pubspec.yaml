@@ -1,6 +1,6 @@
 
 name: chatwithme
-description: App aggiornata con Flutter v2 embedding
+description: A simple Flutter app for testing Appcircle
 
 version: 1.0.0+1
 
@@ -10,7 +10,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  url_launcher: ^6.1.5
 
 flutter:
   uses-material-design: true
